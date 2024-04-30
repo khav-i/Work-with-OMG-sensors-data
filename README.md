@@ -214,6 +214,8 @@ Tабличное представление протокола (первые 10
 
 ![image](https://github.com/khav-i/Work-with-OMG-sensors-data/assets/126453765/9d2c1b38-755e-4ef2-902b-984a727a8fc1)
 
+[nbviewer версия ноутбука](https://nbviewer.org/github/khav-i/Work-with-OMG-sensors-data/blob/master/work_with_three_sets.ipynb).
+
 ### Немного о стажировке
 
 Тех, кто сносно справился с тестовым зданием, разделили на две группы по три человека. Мне повезло оказаться в компании занявших первое и третье место в лидерборде соревнования на Kaggle (мое — шестое). В каждой команде был выбран тимлид, у нас это был [Павел Новиков](https://github.com/PavelNovikov888). А третий член нашей группы — [Арюна Банзарханова](https://github.com/banzarkhan).
